@@ -1,0 +1,17 @@
+
+
+.bg {
+    border: 1px solid black;
+    background-color: rgb(131, 127, 127);
+    /* margin: 1%; */
+    padding: 1%;
+    margin-bottom: 2%;
+}
+h2, .bg {
+    text-align: center;
+}
+
+.nav-link {
+    color:  #343a40!important;
+    cursor:none ;
+}
